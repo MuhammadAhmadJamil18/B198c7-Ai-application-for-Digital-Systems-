@@ -81,8 +81,7 @@ Node.js & npm
 
 Clone the Repository
 
-  git clone https://github.com/your-username/book-recommendation-system.git
-  cd book-recommendation-system
+  git clone https://github.com/MuhammadAhmadJamil18/B198c7-Ai-application-for-Digital-Systems-.git
 
 Install AI Dependencies
 
